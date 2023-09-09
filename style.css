@@ -58,4 +58,7 @@ body {
     line-height: 1;
 }
 
-.heading_description {}
+.heading_description {
+    font-size: 14px;
+    opacity: .5;
+}
